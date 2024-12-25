@@ -8,3 +8,7 @@ lab:
 
 # mkdir build && \
 # rm -rf build && \
+
+.PHONY: vkcube
+vkcube:
+	vkcube
